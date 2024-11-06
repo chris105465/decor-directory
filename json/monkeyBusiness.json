@@ -726,9 +726,183 @@
         "fileName": "erodedrockback"
     },
     {
-        "name": "",
+        "name": "Eroded Rocks [Foreground]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "erodedrockfront"
+    },
+    {
+        "name": "Eroding Limestone Boulders",
         "price": "400SB",
         "position": "below",
-        "fileName": ""
+        "fileName": "limestonerocksbehind"
+    },
+    {
+        "name": "Eroding Limestone Rocks",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "limestonerocksfront"
+    },
+    {
+        "name": "Felsite Boulders",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "boulders_felsite"
+    },
+    {
+        "name": "Fellsite Terrain",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "terrain_felsite"
+    },
+    {
+        "name": "Gabbro Boulders",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "boulders_gabbro"
+    },
+    {
+        "name": "Gabbro Terrain",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "terrain_gabbro"
+    },
+    {
+        "name": "Greater Cane Rat",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "greatercanerat"
+    },
+    {
+        "name": "Kopje Boulders [Behind]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "kopjeback"
+    },
+    {
+        "name": "Kopje Boulders [Front]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "kopjefront"
+    },
+    {
+        "name": "Kopje [Backdrop]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "kopjebackdrop1"
+    },
+    {
+        "name": "Kopje [Foreground]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "kopjeboulders"
+    },
+    {
+        "name": "Limestone Chipped Rocks",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "chipped_limestone"
+    },
+    {
+        "name": "Limestone Cliffs",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "cliffs_limestone_BD"
+    },
+    {
+        "name": "Limestone Rocky Arch",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "arch_limestone_FR"
+    },
+    {
+        "name": "Phonolite Boulders",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "boulders_phonolite"
+    },
+    {
+        "name": "Phonolite Terrain",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "terrain_phonolite"
+    },
+    {
+        "name": "Sandstone Bridge",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "sandstonebridge"
+    },
+    {
+        "name": "Sandstone Chipped Rocks",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "chipped_sandstone"
+    },
+    {
+        "name": "Sandstone Cliffs",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "cliffs_sandstone_BD"
+    },
+    {
+        "name": "Sandstone Rocky Arch",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "arch_sandstone_FR"
+    },
+    {
+        "name": "Scattered Pebbles [Desert]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "scatpebdesert"
+    },
+    {
+        "name": "Scattered Pebbles [Mossy]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "scatpebmoss"
+    },
+    {
+        "name": "Scattered Pebbles [Night]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "scatpebnight"
+    },
+    {
+        "name": "Scattered Pebbles [Volcanic]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "scatpedblack"
+    },
+    {
+        "name": "Spiky Cave Rocks [Ceiling]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "spikyrockstop"
+    },
+    {
+        "name": "Spiky Cave Rocks [Ground]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "spikyrocksbottom"
+    },
+    {
+        "name": "Cliff",
+        "price": "500SB",
+        "position": "below",
+        "fileName": "cliff"
+    },
+    {
+        "name": "Neolithic Art Cliff",
+        "price": "500SB",
+        "position": "below",
+        "fileName": "necliff"
+    },
+    {
+        "name": "Rocky Arch",
+        "price": "500SB",
+        "position": "below",
+        "fileName": "rockyarch"
     }
 ]
