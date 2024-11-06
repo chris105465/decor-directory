@@ -4,18 +4,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decor Site Test</title>
-    <link rel="stylesheet" href="bootstrap.min.css">
+    <title>Decor Directory</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
-    <div class="container mt-md-5 mt-2 bg-body-tertiary">
-        <div class="row">
-            <div class="col">
-                <h1>hello</h1>
+    <div class="container p-0 nav-con">
+        <nav class="navbar navbar-expand-lg sticky-top bg-body-tertiary">
+            <div class="container-fluid">
+                <h1 class="navbar-brand mb-0 ps-3">Chris' Codes</h1>
+                <!-- <a class="navbar-brand ms-2" href="./index.html">Chris' Codes</a> -->
+                <div class="justify-content-end">
+                    <ul class="navbar-nav me-3 mb-0">
+                        <li class=" nav-item mx-2">
+                            <a class="nav-link" href="https://chris105465.github.io/" title="CSS and HTML Site">Free CSS
+                                & HTML</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container mt-2 mt-md-5 px-4 bg-body-tertiary">
+        <div class="row pt-3 pb-2">
+            <h1>Decor Directory</h1>
+        </div>
+        <div class="card h-100 mb-3" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Quick Links</h5>
+                <ul class="pb-0 mb-0">
+                    <li><a href="#monkeyBusiness" class="card-link">Monkey Business</a></li>
+                </ul>
             </div>
         </div>
+        <p>This is the decor directory I'm working on. They will be split up based on where you can get them, and their
+            price will be listed beneath each one. An altered version of my side king will be used as the example, and
+            for now only female default pose is available, but I plan to make more available as soon as I can. Also, any
+            backdrop decor will currently have the lioden logo in the corner (downloaded it from the wardrobe), which
+            I'm planning to remove later since that
+            might get in the way of some decor.</p>
+        <!-- <p>Also, here are my current dragon eggs if you wanna help me hatch them lmao</p>
+        <p><a href="https://dragcave.net/view/3o4CY"><img src="https://dragcave.net/image/3o4CY.gif"
+                    style="border-width:0;" alt="Adopt one today!"></a><a href="https://dragcave.net/view/J80WS"><img
+                    src="https://dragcave.net/image/J80WS.gif" style="border-width:0;" alt="Adopt one today!"></a><a
+                href="https://dragcave.net/view/0qhCa"><img src="https://dragcave.net/image/0qhCa.gif"
+                    style="border-width:0;" alt="Adopt one today!"></a></p> -->
+        <!-- <h2>Monkey Business Test</h2>
+        <div class="row">
+            <div class="card h-100 col-6 p-0"><img
+                    style="background: url(./img/femaleEvil.png); background-size: cover;"
+                    src="https://static.lioden.com/images/decors/female/evil//over/dungbeetle.png" class="card-img-top"
+                    alt="Dung Beetle on Female Evil Pose"><img
+                    src="https://static.lioden.com/images/decors/female/evil//over/dungbeetle.png" class="card-img-top"
+                    alt="Dung Beetle on Female Evil Pose">
+                <div class="card-body">
+                    <h5 class="card-title pb-1">Dung Beetle</h5>
+                    <div class="card-text">Price: 200SB</div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row pb-3" id="monkeyBusiness">
+            <h2 class="mt-3">Monkey Business</h2>
+        </div>
     </div>
+    <div class="container p-3 mt-2 mt-md-5 footer bg-body-tertiary">
+        <footer class="text-center">&copy; Lioden user Chris (#105465)/(#106232)</footer>
+    </div>
+    <script src="./js/style.js"></script>
+    <script>
+        populateSection('monkeyBusiness')
+    </script>
 </body>
 
 </html>

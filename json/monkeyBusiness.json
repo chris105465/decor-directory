@@ -1,0 +1,734 @@
+[
+    {
+        "name": "Dung Beetle",
+        "price": "200SB",
+        "position": "over",
+        "fileName": "dungbeetle"
+    },
+    {
+        "name": "Semioptila fulveolans",
+        "price": "300SB",
+        "position": "over",
+        "fileName": "semioptila"
+    },
+    {
+        "name": "African Ansellia",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushansellia"
+    },
+    {
+        "name": "African Honey Bee",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanhoneyb"
+    },
+    {
+        "name": "African King Cricket",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "kingcricket"
+    },
+    {
+        "name": "African Map Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanmapbutterfly"
+    },
+    {
+        "name": "African Moon Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanmoonmoth"
+    },
+    {
+        "name": "African Peach Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanpeachmoth"
+    },
+    {
+        "name": "African Queen Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanqueenbutt"
+    },
+    {
+        "name": "African Twig Mantis",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "brownmantisonbranch"
+    },
+    {
+        "name": "Angola White Lady",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "angolawhitelady"
+    },
+    {
+        "name": "Antenor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "pharmantenor"
+    },
+    {
+        "name": "Arrow Sphinx",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertusharrowsphinx"
+    },
+    {
+        "name": "Azure Hairstreak",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "azurehairstreak"
+    },
+    {
+        "name": "Banded Millipede",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushbandedmillipede"
+    },
+    {
+        "name": "Banded-Legged Golden Orb-Web Spider",
+        "price": "350SB",
+        "position": "below",
+        "fileName": "bandedleggedgoldenorbwebspider"
+    },
+    {
+        "name": "Black Bordered Charaxes",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushblackborderedcharaxes"
+    },
+    {
+        "name": "Blood Acraea",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "bloodacraea"
+    },
+    {
+        "name": "Blue Footed Baboon Spider",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "blue_baboon_spider"
+    },
+    {
+        "name": "Blue Monkey Beetle",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "blue_monkey_beetle"
+    },
+    {
+        "name": "Brilliant Gem",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "butterfly_brilliantgem"
+    },
+    {
+        "name": "Buffalo Skull",
+        "price": "350SB",
+        "position": "below",
+        "fileName": "skullbuffalo"
+    },
+    {
+        "name": "Bushveld Emperor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "bushveldemperor"
+    },
+    {
+        "name": "Clear-Spotted Acraea",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "clearspotacraea"
+    },
+    {
+        "name": "Comet Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "cometmoth"
+    },
+    {
+        "name": "Common Fig-Tree Blue",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "butt_figtree"
+    },
+    {
+        "name": "Common Joker",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "commonjoker"
+    },
+    {
+        "name": "Coppery Swordtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushcopperyswordtail"
+    },
+    {
+        "name": "Crimson Tip",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushcrimsontip"
+    },
+    {
+        "name": "Danaid Eggfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushdanaid"
+    },
+    {
+        "name": "Death's Head Hawkmoth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deathsheadmoth"
+    },
+    {
+        "name": "Devil's Flower Mantis",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "ghostmantis"
+    },
+    {
+        "name": "Elephant Calf Skull",
+        "price": "350SB",
+        "position": "below",
+        "fileName": "skullelephant"
+    },
+    {
+        "name": "Emperor Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "emperorswallowtail"
+    },
+    {
+        "name": "European Beewolf",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "beewolf"
+    },
+    {
+        "name": "Eyed Pansy",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertusheyedpansy"
+    },
+    {
+        "name": "False Chief",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "falsechief"
+    },
+    {
+        "name": "Fieflies",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "fireflies"
+    },
+    {
+        "name": "Flame-Bordered Emperor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushemperor1"
+    },
+    {
+        "name": "Flamingo Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "flamingofeathers"
+    },
+    {
+        "name": "Flower Crown [Blue and Pink]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "flowercrowns_bluepink"
+    },
+    {
+        "name": "Flower Crown [Blue Cabong]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "crown_bluecabong"
+    },
+    {
+        "name": "Flower Crown [Cape Strawflower]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "crown_capestrawflower"
+    },
+    {
+        "name": "Flower Crown [Egyptian Starcluster]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "egyptianstarclustercrown"
+    },
+    {
+        "name": "Flower Crown [Nettle-Leaved Bellflower]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "nettleleavedflowercrown"
+    },
+    {
+        "name": "Flower Crown [Red and Yellow]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "flowercrowns_redyellow"
+    },
+    {
+        "name": "Flower Crown [Red Disa]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "crown_reddisa"
+    },
+    {
+        "name": "Flower Crown [Rosy Posy]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "redstarcrown"
+    },
+    {
+        "name": "Flower Crown [Silver Arctotis]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "crown_silverarctosis"
+    },
+    {
+        "name": "Flower Crown [Sun Star]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "crown_sunstar"
+    },
+    {
+        "name": "Flower Crown [Syrian Speedwell]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "syrianspeedwell"
+    },
+    {
+        "name": "Flower Crown [Tiki Fern]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "flowercrowns_tikifern"
+    },
+    {
+        "name": "Flower Crown [Treasure Flower]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "treasureflowercrown"
+    },
+    {
+        "name": "Flower Crown [Tricolor Felicia]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "tricolorfeliciacrown"
+    },
+    {
+        "name": "Flower Crown [Vlei Ink-Flower]",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "vleinkcrown"
+    },
+    {
+        "name": "Forest Green Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "greenforestbutterfly"
+    },
+    {
+        "name": "Gaudy Commodore",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "gaudicommodore"
+    },
+    {
+        "name": "Gazelle Skull Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullgazelle"
+    },
+    {
+        "name": "Gemsbok Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullgemsbok"
+    },
+    {
+        "name": "Ghost Mantis",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "devilsflowermantis"
+    },
+    {
+        "name": "Giant African Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "giantafricanswallowtail"
+    },
+    {
+        "name": "Giant Blue Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushgiantblueswallowtail"
+    },
+    {
+        "name": "Giant Charaxes",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "giantempreor"
+    },
+    {
+        "name": "Giraffe Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullgiraffe"
+    },
+    {
+        "name": "Gold Banded Forester",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "goldbandedforester"
+    },
+    {
+        "name": "Green-Banded Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushgreenbanded"
+    },
+    {
+        "name": "Hartesbeest Skull",
+        "price": "350SB",
+        "position": "below",
+        "fileName": "skullhaartebeest"
+    },
+    {
+        "name": "Hornbill Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "hornbillfeathers"
+    },
+    {
+        "name": "Impala Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullimpala"
+    },
+    {
+        "name": "Jackson's Emperor Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "jacksonmoth"
+    },
+    {
+        "name": "Janetta Themis Forester",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "janettaforester"
+    },
+    {
+        "name": "Kingfisher Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "kingfisherfeather"
+    },
+    {
+        "name": "Kob Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullkob"
+    },
+    {
+        "name": "Leaf Bunting",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "leafbunting"
+    },
+    {
+        "name": "Madagascan Friar",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "madagascanfriar"
+    },
+    {
+        "name": "Marbled Emperor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "marbledemp"
+    },
+    {
+        "name": "Mombasa Golden Starburst Tarantula",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "orangebaboontarantula"
+    },
+    {
+        "name": "Montane Charaxes",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "montanecharaxes"
+    },
+    {
+        "name": "Mountain Pride",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "mountainpride"
+    },
+    {
+        "name": "Narrow-Banded Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushnarrowbandedswallowtail"
+    },
+    {
+        "name": "Nigerian Flower Mantis",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "mantisonbranchsecond"
+    },
+    {
+        "name": "Nightjar Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "nightjarfeather-decor"
+    },
+    {
+        "name": "Noble False Widow",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "nfalse_widow"
+    },
+    {
+        "name": "Noble Swallowtail",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "deertushnobleswallowtail"
+    },
+    {
+        "name": "Oriental Hornet",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "orientalhornet"
+    },
+    {
+        "name": "Ostrich Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "Ostrichfeather"
+    },
+    {
+        "name": "Painted Lady Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "butterflipaintedlady"
+    },
+    {
+        "name": "Pair of Giant Charaxes",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "giantcharaxes"
+    },
+    {
+        "name": "Pan Opal",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "butt_opalp"
+    },
+    {
+        "name": "Pearl Emperor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "pearlemperorch"
+    },
+    {
+        "name": "Porta Widow",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "portawidow"
+    },
+    {
+        "name": "Scarlet Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "scarletbutterfly"
+    },
+    {
+        "name": "Senegal Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "senegalfeather"
+    },
+    {
+        "name": "Silvery Blue Butterflies",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "silveryblueswarm"
+    },
+    {
+        "name": "Small Elephant Hawk-Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "smallelephanthawkmoth"
+    },
+    {
+        "name": "Spiny Flower Mantis",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "africanflowermantis"
+    },
+    {
+        "name": "Sun Glare",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "sunglare"
+    },
+    {
+        "name": "Sunset Moth",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "butterfly_Sunset"
+    },
+    {
+        "name": "Tarantula Hawk Wasp",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "bebravestaywild"
+    },
+    {
+        "name": "Tobacco Cricket",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "tobaccocricket"
+    },
+    {
+        "name": "Two Tailed Pasha",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "twotailedpasha"
+    },
+    {
+        "name": "Violet Tip",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "violettip"
+    },
+    {
+        "name": "Vulture Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "vulturefeather"
+    },
+    {
+        "name": "Vulturine Guineafowl Feather Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "vulturineguineafowlfeather"
+    },
+    {
+        "name": "Warthog Skull Decor",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullwarthog"
+    },
+    {
+        "name": "Western Blue Charaxes",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "westernbluecharaxes"
+    },
+    {
+        "name": "Wildebeest Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullwildebeest"
+    },
+    {
+        "name": "Yellow Pansy Butterfly",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "pansybuttfly"
+    },
+    {
+        "name": "Zebra Skull",
+        "price": "350SB",
+        "position": "over",
+        "fileName": "skullzebra"
+    },
+    {
+        "name": "Acacia Rat",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "acaciarat"
+    },
+    {
+        "name": "Andesite Boulders",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "boulders_andesite"
+    },
+    {
+        "name": "Andesite Terrain",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "terrain_andesite"
+    },
+    {
+        "name": "Beach Rocks [Behind]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "beachrocksback"
+    },
+    {
+        "name": "Beach Rocks [Front]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "beachrocksfront"
+    },
+    {
+        "name": "Crags",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "crags"
+    },
+    {
+        "name": "Desert Rocks [Behind]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "desertrockback"
+    },
+    {
+        "name": "Desert Rocks [Front]",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "desertrockfront"
+    },
+    {
+        "name": "Dolomite Chipped Rocks",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "chipped_dolomite"
+    },
+    {
+        "name": "Dolomite Cliffs",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "cliffs_dolomite"
+    },
+    {
+        "name": "Dolomite Rocky Arch",
+        "price": "400SB",
+        "position": "over",
+        "fileName": "arch_dolomite_FR"
+    },
+    {
+        "name": "Eroded Rocks [Backdrop]",
+        "price": "400SB",
+        "position": "below",
+        "fileName": "erodedrockback"
+    },
+    {
+        "name": "",
+        "price": "400SB",
+        "position": "below",
+        "fileName": ""
+    }
+]

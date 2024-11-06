@@ -1,0 +1,30 @@
+.female {
+    background: url('../img/female.png');
+}
+
+.evil {
+    background: url('../img/femaleEvil.png');
+}
+
+.male {
+    background: url('../img/male.png');
+}
+
+.below {
+    content: url('../img/lioden-wardrobe.png');
+}
+
+.decor-card {
+    background: url('https://static.lioden.com/images/dynamic/backgrounds/BrumousColdMorning.png');
+    background-position-y: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card-img-top {
+    background-size: cover;
+}
+
+.card-link {
+    text-decoration: none;
+}
